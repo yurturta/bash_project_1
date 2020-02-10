@@ -1,3 +1,3 @@
-- Bash, Make, Git and Github
-- Mon Feb 10 22:05:34 CET 2020
+- bash_project_1
+- Mon Feb 10 22:18:35 CET 2020
 - 32
